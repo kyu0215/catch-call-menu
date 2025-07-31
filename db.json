@@ -2,15 +2,15 @@
  "data": {
   "menus": [
      [
-      { "name": "족발(대)", "amount": 32000 },
-      { "name": "족발(중)", "amount": 28000 },
-      { "name": "냉채(대)", "amount": 42000 },
-      { "name": "냉채(중)", "amount": 36000 }
+      { "name": "족발(대)", "amount": 34000 },
+      { "name": "족발(중)", "amount": 30000 },
+      { "name": "냉채(대)", "amount": 44000 },
+      { "name": "냉채(중)", "amount": 38000 }
      ],
      [
-      { "name": "막국수", "amount": 10000 },
-      { "name": "막국수(대)", "amount": 12000 },
-      { "name": "해물부추전", "amount": 10000 },
+      { "name": "막국수", "amount": 11000 },
+      { "name": "막국수(대)", "amount": 13000 },
+      { "name": "해물부추전", "amount": 11000 },
       { "name": "어리굴젓", "amount": 6000 }
      ],
      [
