@@ -20,7 +20,8 @@
       { "name": "된장국", "amount": 1000 }
      ],
      [
-      { "name": "뼈 X", "amount": 0 }
+      { "name": "뼈 X", "amount": 0 },
+      { "name": "얇게", "amount": 0 }
      ]
    ]
  }
